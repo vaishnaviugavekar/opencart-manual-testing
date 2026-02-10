@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This repository contains a comprehensive **Manual Testing project** for the **OpenCart Frontend application**.  
-It showcases complete test documentation prepared according to industry-standard testing practices, covering the fullSof tware Testing Life Cycle (STLC).
+It showcases complete test documentation prepared according to industry-standard testing practices, covering the full Software Testing Life Cycle (STLC).
 
 This project is intended to demonstrate practical manual testing skills, structured documentation, and real-world testing scenarios for an e-commerce application.
 
