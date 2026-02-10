@@ -63,5 +63,3 @@ opencart-manual-testing
 
 ## 👩‍💻 Author
 **Vaishnavi Ugavekar**
-
----
