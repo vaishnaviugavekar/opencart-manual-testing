@@ -1,8 +1,8 @@
 # 🛒 OpenCart Manual Testing Project
 
 ## 📌 Overview
-This repository contains a comprehensive Manual Testing project for the OpenCart Frontend application.  
-It showcases complete test documentation prepared according to industry-standard testing practices, covering the full Software Testing Life Cycle (STLC).
+This repository contains a comprehensive **Manual Testing project** for the **OpenCart Frontend application**.  
+It showcases complete test documentation prepared according to industry-standard testing practices, covering the fullSof tware Testing Life Cycle (STLC).
 
 This project is intended to demonstrate practical manual testing skills, structured documentation, and real-world testing scenarios for an e-commerce application.
 
@@ -46,13 +46,13 @@ opencart-manual-testing
 
 
 ## 📁 Folder Details
-- 01_FRS – Functional Requirement Specification documents
-- 02_Test_Plan – Test plan defining scope, strategy, and approach
-- 03_Test_Scenarios – High-level test scenarios for application modules
-- 04_RTM – Requirement Traceability Matrix mapping requirements to test cases
-- 05_Test_Cases – Detailed test cases with steps and expected results
-- 06_Test_Execution – Test execution results with Pass/Fail status
-- 07_Bug_Report – Defect reports including severity and priority
+- **01_FRS** – Functional Requirement Specification documents
+- **02_Test_Plan** – Test plan defining scope, strategy, and approach
+- **03_Test_Scenarios** – High-level test scenarios for application modules
+- **04_RTM** – Requirement Traceability Matrix mapping requirements to test cases
+- **05_Test_Cases** – Detailed test cases with steps and expected results
+- **06_Test_Execution** – Test execution results with Pass/Fail status
+- **07_Bug_Report** – Defect reports including severity and priority
 
 
 ## ⭐ Key Highlights
@@ -64,6 +64,4 @@ opencart-manual-testing
 ## 👩‍💻 Author
 **Vaishnavi Ugavekar**
 
-
-## 📎 Note
-This project is created for **learning, practice, and portfolio demonstration purposes**.
+---
