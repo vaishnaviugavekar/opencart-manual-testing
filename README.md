@@ -1,7 +1,7 @@
 # 🛒 OpenCart Manual Testing Project
 
 ## 📌 Overview
-This repository contains a comprehensive **Manual Testing project** for the **OpenCart Frontend application**.  
+This repository contains a comprehensive **Manual Testing project** for the **OpenCart Frontend application**(https://demo.opencart.com/).  
 It showcases complete test documentation prepared according to industry-standard testing practices, covering the full Software Testing Life Cycle (STLC).
 
 This project is intended to demonstrate practical manual testing skills, structured documentation, and real-world testing scenarios for an e-commerce application.
@@ -55,11 +55,20 @@ opencart-manual-testing
 - **07_Bug_Report** – Defect reports including severity and priority
 
 
+## 🔗 Original Project Documents (Google Drive)
+PDF versions of all documents are available in this repository.
+You can also view the original Google Sheets and Google Docs files using the link below:
+👉 [Access Complete Project Folder](https://drive.google.com/drive/folders/15nz1_ZqId5dmIbgD3nKiCuzcd8XGyivW?usp=drive_link)
+
+
 ## ⭐ Key Highlights
 - End-to-end manual testing documentation
 - Clear traceability between requirements, test cases, and defects
-- Realistic test scenarios based on an e-commerce application
+- Realistic test scenarios based on an e
+- -commerce application
 
 
 ## 👩‍💻 Author
 **Vaishnavi Ugavekar**
+📧 vaishnaviugavekar10@gmail.com
+
