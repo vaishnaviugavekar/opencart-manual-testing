@@ -56,8 +56,8 @@ opencart-manual-testing
 
 
 ## 🔗 Original Project Documents (Google Drive)
-PDF versions of all documents are available in this repository.
-You can also view the original Google Sheets and Google Docs files using the link below:
+PDF versions of all documents are available in this repository.  
+You can also view the original Google Sheets and Google Docs files using the link below:  
 👉 [Access Complete Project Folder](https://drive.google.com/drive/folders/15nz1_ZqId5dmIbgD3nKiCuzcd8XGyivW?usp=drive_link)
 
 
@@ -69,6 +69,6 @@ You can also view the original Google Sheets and Google Docs files using the lin
 
 
 ## 👩‍💻 Author
-**Vaishnavi Ugavekar**
+**Vaishnavi Ugavekar**  
 📧 vaishnaviugavekar10@gmail.com
 
