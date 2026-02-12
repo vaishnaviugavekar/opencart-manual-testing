@@ -64,11 +64,9 @@ You can also view the original Google Sheets and Google Docs files using the lin
 ## ⭐ Key Highlights
 - End-to-end manual testing documentation
 - Clear traceability between requirements, test cases, and defects
-- Realistic test scenarios based on an e
-- -commerce application
+- Realistic test scenarios based on an e-commerce application
 
 
 ## 👩‍💻 Author
 **Vaishnavi Ugavekar**  
 📧 vaishnaviugavekar10@gmail.com
-
